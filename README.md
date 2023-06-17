@@ -12,8 +12,8 @@
 
 ## Formatting and Syntax ##
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/orpeq)
-[![ESLint](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=eslint)](https://github.com/orpeq)
-[![Prettier](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=prettier)](https://github.com/orpeq)
+[![ESLint](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint)](https://github.com/orpeq)
+[![Prettier](https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier)](https://github.com/orpeq)
 
 ## Localization ##
 [![i18n](https://img.shields.io/badge/i18n-black?style=for-the-badge&logo=i18n)](https://github.com/orpeq)
