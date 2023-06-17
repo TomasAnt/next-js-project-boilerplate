@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Boilerplate project for Future Projects.
+
+## Language: ## 
+**Javascript**
+
+## Frameworks ##
+**ReactJS | NextJS**
+
+## Formatting and Syntax ##
+**TypeScript**
+**ESLint**
+**Prettier**
+
+## Localization ##
+**i18n**
 
 ## Getting Started
 
