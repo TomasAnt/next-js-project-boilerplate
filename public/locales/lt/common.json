@@ -1,0 +1,14 @@
+{
+  "homePage": {
+    "title": "Pagrindinis",
+    "welcome": "Sveiki atvykę į pagrindinį puslapį!"
+  },
+  "contactPage": {
+    "title": "Kontaktai",
+    "welcome": "Sveiki atvykę į kontaktų puslapį!"
+  },
+  "aboutPage": {
+    "title": "About",
+    "welcome": "Sveiki atvykę į apie puslapį!"
+  }
+}
