@@ -1,4 +1,4 @@
-<h2 align="center">Boilerplate project for Future Projects.</h2>
+<h2 align="center">Project boilerplate using React and NextJS</h2>
 
 ### Languages
 
