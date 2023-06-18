@@ -1,10 +1,8 @@
-import Head from "next/head"
-import { Inter } from "next/font/google"
-import { serverSideTranslations } from "next-i18next/serverSideTranslations"
 import { NextPage } from "next"
-import { Locales } from "@typings/globalTypes"
+import Head from "next/head"
+import { serverSideTranslations } from "next-i18next/serverSideTranslations"
 
-const inter = Inter({ subsets: ["latin"] })
+import { Locales } from "@typings/globalTypes"
 
 const Home: NextPage = () => (
   <>

@@ -1,19 +1,27 @@
 import { createGlobalStyle } from "styled-components"
 
 export const GlobalStyles = createGlobalStyle`
-  html {
-  scroll-behavior: smooth;
+html,
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
 }
-  body {
-    font-family: 'Inter', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
-      'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 
-    -webkit-font-smoothing: antialiased;
-  }
- 
-a,
-a:visited {
+body,
+input,
+textarea,
+button,
+label {
+  font-family: "Inter";
+}
+
+a {
+  color: inherit;
   text-decoration: none;
-  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
 }
 `
