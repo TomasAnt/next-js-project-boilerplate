@@ -1,3 +1,5 @@
+/* eslint-disable eslint-comments/disable-enable-pair */
+/* eslint-disable import/no-unused-modules */
 interface PostRequestParams {
   url: string
   data: Record<string, any> | null

@@ -20,29 +20,30 @@ export const responsiveBreakPoints = {
 export type AppBreakpointsType = typeof responsiveBreakPoints
 
 export const fontSizes = {
-  xs: "12px",
-  sm: "14px",
-  default: "16px",
-  lg: "18px",
-  bg: "20px",
-  h1: "32px",
-  h2: "24px",
-  h3: "20px",
-  h4: "18px",
+  xs: "0.75rem", // 12px
+  sm: "0.875rem", // 14px
+  default: "1rem", // 16px
+  lg: "1.125rem", // 18px
+  bg: "1.25rem", // 20px
+  h1: "2rem", // 32px
+  h2: "1.5rem", // 24px
+  h3: "1.25rem", // 20px
+  h4: "1.125rem", // 18px
 }
 
 export type AppFSType = typeof fontSizes
 
 export const lineHeights = {
-  xs: "12px",
-  sm: "16px",
-  default: "20px",
-  lg: "24px",
-  bg: "28px",
-  h1: "40px",
-  h2: "32px",
-  h3: "28px",
-  h4: "24px",
+  xs: "0.75rem", // 12px
+  sm: "1rem", // 16px
+  default: "1.25rem", // 20px
+  lg: "1.5rem", // 24px
+  bg: "1.75rem", // 28px
+  xl: "2.85rem", // 45.6px
+  h1: "2.5rem", // 40px
+  h2: "2rem", // 32px
+  h3: "1.75rem", // 28px
+  h4: "1.5rem", // 24px
 }
 
 export type AppLineHeightsType = typeof lineHeights
